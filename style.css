@@ -1,0 +1,64 @@
+
+    .navbar{
+        font-family: 'Aref Ruqaa Ink', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+        font-weight: 700;
+    }
+
+    .home{
+        font-family: 'Aref Ruqaa Ink', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+    }
+
+#home{
+    background-color: rgba(99, 99, 248, 0.966) ;
+    min-height: 500px ;
+}
+.service{
+    font-family: 'Aref Ruqaa Ink', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
+.card{
+    transition: all 0.5s ease;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0.5rem 1rem  rgba(0, 0, 0, .15) ;
+    transition: scale(1.1);
+}
+.btn{
+    transition: all 0.5s ease;
+}
+.btn:hover{
+   transform: scale(1.1);
+}
+.about{
+    font-family: 'Aref Ruqaa Ink', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
+.w-100{
+    transition: scale(1.1) ;
+}
+
+.w-100:hover{
+    transform: scale(1.1) ;
+}
+#Team{
+    font-family: 'Aref Ruqaa Ink', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
+#contact{
+    font-family: 'Aref Ruqaa Ink', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
+#testimonial{
+    font-family: 'Aref Ruqaa Ink', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
